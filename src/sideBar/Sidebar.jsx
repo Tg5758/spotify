@@ -1,34 +1,8 @@
-import React, { useState, useEffect } from "react";
+import React from "react";
+// import { MENU } from "../dummy";
 
-function Sidebar() {
-  const [discoveredItems, setDiscoveredItems] = useState([]);
-
-  useEffect(() => {
-    const fetchDiscoveredItems = async () => {
-      try {
-        const response = await fetch(
-          "https://api.apilayer.com/spotify/artist_discovered_on?id=2w9zwq3AktTeYYMuhMjju8",
-          {
-            method: "GET",
-            headers: {
-              apikey: "pNuqcMO7UzIvLV5bnpRgE74gtWI2n1Gfsd",
-              // apikey: "pNuqcMO7UzIvLV5bnpRgE74gtWI2n1Gf",
-            },
-          }
-        );
-        const result = await response.json();
-        const discoveredItems =
-          result.data.artist.relatedContent.discoveredOn.items;
-        setDiscoveredItems(discoveredItems);
-        console.log("Discovered Items:", discoveredItems);
-        console.log("@@ API", result.data);
-      } catch (error) {
-        console.error("Error fetching data:", error);
-      }
-    };
-
-    fetchDiscoveredItems();
-  }, []);
+function Sidebar({discoveredItems}) {
+ 
 
   const topSidebarData = [
     { name: "Home", path: "/images/home.png" },
@@ -68,22 +42,27 @@ function Sidebar() {
         </div>
         <hr className="mx-8" />
       </div>
-      <div className="overflow-y-hidden items-start gap-2 flex flex-col pl-8 pt-5">
+      <div className="overflow-y-hidden items-start gap-2 flex flex-col pl-8 pt-5" style={{
+        height: "calc(100vh - 365px)",
+        overflowY: "scroll",
+        display: "flex",
+        flexDirection: "column"
+      }}>
         {discoveredItems.map((item) => (
-          <span
+          <p className="items-start"
             style={{
               color: "#B3B3B3",
-              fontFamily: "Circular Std",
               fontSize: "18px",
               fontStyle: "normal",
               fontWeight: "450",
               lineHeight: "normal",
-              overflowY:"hidden"
+              textAlign:"left"
+              // overflowY:"hidden "
             }}
             key={item.name}
           >
             {item.name}
-          </span>
+          </p>
         ))}
       </div>
     </div>
