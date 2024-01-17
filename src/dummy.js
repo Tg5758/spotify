@@ -1303,4 +1303,298 @@ export const USERPROFILE = {
         "total_public_playlists_count": 18,
         "uri": "spotify:user:nocopyrightsound"
       
+};
+
+export const PLAYLIST = {
+  "allow_follows": true,
+  "color": 5282805,
+  "followers_count": 23,
+  "following_count": 8,
+  "name": "Evan Urquhart",
+  "public_playlists": [
+    {
+      "image_url": "spotify:mosaic:ab67616d00001e02079e826265dffc3a8a26bac5:ab67616d00001e022519d01c0cca06f134eeadd8:ab67616d00001e0295d1d98c5176e4f982bd73d6:ab67616d00001e02ccdddd46119a4ff53eaf1f5d",
+      "name": "Mom \u2665\ufe0f",
+      "owner_name": "Evan Urquhart",
+      "owner_uri": "spotify:user:nocopyrightsound",
+      "uri": "spotify:playlist:5xhTEMju2xTrIhVEvXQgpG"
+    },
+    {
+      "followers_count": 184666,
+      "image_url": "spotify:mosaic:ab67616d00001e021db4aaf86fa4f737600dfd8b:ab67616d00001e0235bea3671df8219fbcba6617:ab67616d00001e0295ca6a9b4083a86c149934ae:ab67616d00001e02e3884b7043aa68c264faff71",
+      "name": "daves favs",
+      "owner_name": "davidkushner",
+      "owner_uri": "spotify:user:dankavid",
+      "uri": "spotify:playlist:7579Rtpy1UwltbGOxSxZ0l"
+    },
+    {
+      "name": "My Playlist #14",
+      "owner_name": "Evan Urquhart",
+      "owner_uri": "spotify:user:nocopyrightsound",
+      "uri": "spotify:playlist:0FyAtCtcXcLY4zG8Nu15bf"
+    },
+    {
+      "followers_count": 1,
+      "image_url": "spotify:mosaic:ab67616d00001e029f3ce9d1c873caf604ff3c1b:ab67616d00001e02ad3b5398f9086d7f6e19331b:ab67616d00001e02bf33fdea7b0ff3c71b6faf75:ab67616d00001e02d977aeddd2cdfe894e455ec0",
+      "name": "h n e ",
+      "owner_name": "Evan Urquhart",
+      "owner_uri": "spotify:user:nocopyrightsound",
+      "uri": "spotify:playlist:0UzkLoTOrs7fO64LeB7q01"
+    },
+    {
+      "name": "My Playlist #12",
+      "owner_name": "Evan Urquhart",
+      "owner_uri": "spotify:user:nocopyrightsound",
+      "uri": "spotify:playlist:2VmYA8TQxwbETOWV9jqGfx"
+    },
+    {
+      "followers_count": 3,
+      "image_url": "spotify:mosaic:ab67616d00001e026aef62bd0a60aac7df9a9e37:ab67616d00001e02f051a314bb7eaa973c795176:ab67616d00001e02f9bd7a6c772ac496015be3f8:f9cc2e5d29b97a944a08331834c620a44da47e08",
+      "name": "Party bus ",
+      "owner_name": "Evan Urquhart",
+      "owner_uri": "spotify:user:nocopyrightsound",
+      "uri": "spotify:playlist:4upTT4mAEhBhI8qK1cO20z"
+    },
+    {
+      "followers_count": 777,
+      "image_url": "spotify:mosaic:ab67616d00001e024db665e177c24986d3c9992c:ab67616d00001e027a6aa18b884bea97981b7542:ab67616d00001e027ad8939fda11d5b7d59d8378:ab67616d00001e027e0e532ce0ca1423c8cbec2e",
+      "owner_name": "DJ Skid",
+      "owner_uri": "spotify:user:l2slwxd37vjxrmrav4pxejeze",
+      "uri": "spotify:playlist:6ZsgGr8EfzskXP6r4Kcf44"
+    },
+    {
+      "image_url": "spotify:image:ab67616d00001e0278b2982016f78b77663ed535",
+      "name": ". love my best 2019 ",
+      "owner_name": "Evan Urquhart",
+      "owner_uri": "spotify:user:nocopyrightsound",
+      "uri": "spotify:playlist:1IydX8RRpQwE5Jh26a4uup"
+    },
+    {
+      "image_url": "spotify:image:ab67616d00001e02c2658b38cbd7fb869ccd6c0c",
+      "name": ". play-list trap music ",
+      "owner_name": "Evan Urquhart",
+      "owner_uri": "spotify:user:nocopyrightsound",
+      "uri": "spotify:playlist:4aQ9ZNkHzQW22NlP4GdNhA"
+    },
+    {
+      "followers_count": 565,
+      "image_url": "spotify:mosaic:ab67616d00001e0246ef374f1639b196e6de5ed8:ab67616d00001e02494e33d225ef37180f88c8ce:ab67616d00001e026e0222661f33f3a8d03bc4da:ab67616d00001e02c3df98cdd19d778f832c10ce",
+      "name": "Whistler ",
+      "owner_name": "kimking30",
+      "owner_uri": "spotify:user:kimking30",
+      "uri": "spotify:playlist:5pYR5WeK9YUEoy1nQV7cd1"
+    }
+  ],
+  "show_follows": true,
+  "total_public_playlists_count": 18,
+  "uri": "spotify:user:nocopyrightsound"
 }
+
+export const PLAYLISTDATA = {
+  
+  "images": [
+    {
+      "height": 640,
+      "url": "https://mosaic.scdn.co/640/ab67616d0000b273079e826265dffc3a8a26bac5ab67616d0000b2732519d01c0cca06f134eeadd8ab67616d0000b27395d1d98c5176e4f982bd73d6ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+      "width": 640
+    },
+    {
+      "height": 300,
+      "url": "https://mosaic.scdn.co/300/ab67616d0000b273079e826265dffc3a8a26bac5ab67616d0000b2732519d01c0cca06f134eeadd8ab67616d0000b27395d1d98c5176e4f982bd73d6ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+      "width": 300
+    },
+    {
+      "height": 60,
+      "url": "https://mosaic.scdn.co/60/ab67616d0000b273079e826265dffc3a8a26bac5ab67616d0000b2732519d01c0cca06f134eeadd8ab67616d0000b27395d1d98c5176e4f982bd73d6ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+      "width": 60
+    }
+  ],
+  "name": "Mom \u2665\ufe0f",
+  "owner": {
+    "display_name": "Evan Urquhart",
+    "id": "nocopyrightsound",
+    "uri": "spotify:user:nocopyrightsound"
+  },
+  "public": true,
+  "tracks": {
+    "items": [
+      {
+        "track": {
+          "duration_ms": 222973,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 197986,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 165853,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 203346,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 167066,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 230760,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 237026,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 206426,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 252533,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 215093,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 227833,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 282160,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 216933,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 213800,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 255373,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 329733,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 193653,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 191800,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 274160,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 224693,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 272293,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 259933,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 201173,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 236266,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 261426,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 272973,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 176346,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 235213,
+          "type": "track"
+        }
+      },
+      {
+        "track": {
+          "duration_ms": 222933,
+          "type": "track"
+        }
+      }
+    ],
+    "total": 29
+  },
+  "uri": "spotify:playlist:5xhTEMju2xTrIhVEvXQgpG"
+}
+
