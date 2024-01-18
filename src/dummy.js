@@ -1598,3 +1598,2685 @@ export const PLAYLISTDATA = {
   "uri": "spotify:playlist:5xhTEMju2xTrIhVEvXQgpG"
 }
 
+export const PLAYLISTTRACKS = {
+  "items": [
+      {
+          "added_at": "2023-09-22T05:58:13Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "single",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                          },
+                          "id": "33NVpKoXjItPwUJTMZIOiY",
+                          "name": "David Kushner",
+                          "type": "artist",
+                          "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/3tUERmP5MUBWoE7TrbbXEY"
+                  },
+                  "id": "3tUERmP5MUBWoE7TrbbXEY",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27335bea3671df8219fbcba6617",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0235bea3671df8219fbcba6617",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485135bea3671df8219fbcba6617",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Dead Man",
+                  "release_date": "2023-09-22",
+                  "release_date_precision": "day",
+                  "total_tracks": 1,
+                  "type": "album",
+                  "uri": "spotify:album:3tUERmP5MUBWoE7TrbbXEY"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                      },
+                      "id": "33NVpKoXjItPwUJTMZIOiY",
+                      "name": "David Kushner",
+                      "type": "artist",
+                      "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 274870,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "QZXDB2300042"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/2ZXb6OBkjmDYnvEB3iANgH"
+              },
+              "id": "2ZXb6OBkjmDYnvEB3iANgH",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Dead Man",
+              "popularity": 74,
+              "preview_url": "https://p.scdn.co/mp3-preview/0981a4005cc0939b54d9ebc61e387e8867f68494?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:2ZXb6OBkjmDYnvEB3iANgH"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2023-04-14T04:45:52Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "single",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                          },
+                          "id": "33NVpKoXjItPwUJTMZIOiY",
+                          "name": "David Kushner",
+                          "type": "artist",
+                          "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv"
+                  },
+                  "id": "6NcI39WPu4kY6Tul11nhSv",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27395ca6a9b4083a86c149934ae",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0295ca6a9b4083a86c149934ae",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485195ca6a9b4083a86c149934ae",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Daylight",
+                  "release_date": "2023-04-14",
+                  "release_date_precision": "day",
+                  "total_tracks": 1,
+                  "type": "album",
+                  "uri": "spotify:album:6NcI39WPu4kY6Tul11nhSv"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                      },
+                      "id": "33NVpKoXjItPwUJTMZIOiY",
+                      "name": "David Kushner",
+                      "type": "artist",
+                      "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 212953,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "QZXDB2300005"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj"
+              },
+              "id": "1odExI7RdWc4BT515LTAwj",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Daylight",
+              "popularity": 95,
+              "preview_url": "https://p.scdn.co/mp3-preview/43c7e8d0c7af7fdddfeb56e2b8b8a091e2091a99?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:1odExI7RdWc4BT515LTAwj"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2023-03-23T08:30:50Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "single",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                          },
+                          "id": "33NVpKoXjItPwUJTMZIOiY",
+                          "name": "David Kushner",
+                          "type": "artist",
+                          "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/6bSWCDheGUZVfCSKZw4F8I"
+                  },
+                  "id": "6bSWCDheGUZVfCSKZw4F8I",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2731db4aaf86fa4f737600dfd8b",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e021db4aaf86fa4f737600dfd8b",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048511db4aaf86fa4f737600dfd8b",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Elk Grove",
+                  "release_date": "2023-03-17",
+                  "release_date_precision": "day",
+                  "total_tracks": 1,
+                  "type": "album",
+                  "uri": "spotify:album:6bSWCDheGUZVfCSKZw4F8I"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                      },
+                      "id": "33NVpKoXjItPwUJTMZIOiY",
+                      "name": "David Kushner",
+                      "type": "artist",
+                      "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 215712,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "QZXDB2300001"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/0AhiwX5iV3gd8IvUUQ4TYQ"
+              },
+              "id": "0AhiwX5iV3gd8IvUUQ4TYQ",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Elk Grove",
+              "popularity": 60,
+              "preview_url": "https://p.scdn.co/mp3-preview/2724d685802f1b2b93813b7bc85ee340ed63481c?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:0AhiwX5iV3gd8IvUUQ4TYQ"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-09-29T23:30:41Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                          },
+                          "id": "33NVpKoXjItPwUJTMZIOiY",
+                          "name": "David Kushner",
+                          "type": "artist",
+                          "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
+                  },
+                  "id": "5bXx1ncSvWPtNAuecQgsHf",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e3884b7043aa68c264faff71",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e3884b7043aa68c264faff71",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e3884b7043aa68c264faff71",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Footprints I Found",
+                  "release_date": "2022-09-16",
+                  "release_date_precision": "day",
+                  "total_tracks": 7,
+                  "type": "album",
+                  "uri": "spotify:album:5bXx1ncSvWPtNAuecQgsHf"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                      },
+                      "id": "33NVpKoXjItPwUJTMZIOiY",
+                      "name": "David Kushner",
+                      "type": "artist",
+                      "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 232991,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "QZD5H2000385"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/5iu3rl4feYeRgR1DW0ydNU"
+              },
+              "id": "5iu3rl4feYeRgR1DW0ydNU",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Miserable Man",
+              "popularity": 74,
+              "preview_url": "https://p.scdn.co/mp3-preview/5a28384c3fd88d8671550db0cc08e7e18c04046f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 6,
+              "type": "track",
+              "uri": "spotify:track:5iu3rl4feYeRgR1DW0ydNU"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-09-29T23:30:30Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                          },
+                          "id": "33NVpKoXjItPwUJTMZIOiY",
+                          "name": "David Kushner",
+                          "type": "artist",
+                          "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
+                  },
+                  "id": "5bXx1ncSvWPtNAuecQgsHf",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e3884b7043aa68c264faff71",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e3884b7043aa68c264faff71",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e3884b7043aa68c264faff71",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Footprints I Found",
+                  "release_date": "2022-09-16",
+                  "release_date_precision": "day",
+                  "total_tracks": 7,
+                  "type": "album",
+                  "uri": "spotify:album:5bXx1ncSvWPtNAuecQgsHf"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                      },
+                      "id": "33NVpKoXjItPwUJTMZIOiY",
+                      "name": "David Kushner",
+                      "type": "artist",
+                      "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 187293,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "QZD5H2000390"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/0c8K5IUrmVlieC0Fc0d8tV"
+              },
+              "id": "0c8K5IUrmVlieC0Fc0d8tV",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Mr. Forgettable",
+              "popularity": 79,
+              "preview_url": "https://p.scdn.co/mp3-preview/baee58f8489b9813a98db9d424dd61d95a3da875?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 4,
+              "type": "track",
+              "uri": "spotify:track:0c8K5IUrmVlieC0Fc0d8tV"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-09-29T23:30:45Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                          },
+                          "id": "33NVpKoXjItPwUJTMZIOiY",
+                          "name": "David Kushner",
+                          "type": "artist",
+                          "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
+                  },
+                  "id": "5bXx1ncSvWPtNAuecQgsHf",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e3884b7043aa68c264faff71",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e3884b7043aa68c264faff71",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e3884b7043aa68c264faff71",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Footprints I Found",
+                  "release_date": "2022-09-16",
+                  "release_date_precision": "day",
+                  "total_tracks": 7,
+                  "type": "album",
+                  "uri": "spotify:album:5bXx1ncSvWPtNAuecQgsHf"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                      },
+                      "id": "33NVpKoXjItPwUJTMZIOiY",
+                      "name": "David Kushner",
+                      "type": "artist",
+                      "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 179173,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "QZD5H2000398"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/40dfo65kBJa1UgzkD652Gl"
+              },
+              "id": "40dfo65kBJa1UgzkD652Gl",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Burn",
+              "popularity": 77,
+              "preview_url": "https://p.scdn.co/mp3-preview/64de18156c446dff4fc3080bc444e325cb9f4c70?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 2,
+              "type": "track",
+              "uri": "spotify:track:40dfo65kBJa1UgzkD652Gl"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-09-16T06:54:24Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                          },
+                          "id": "33NVpKoXjItPwUJTMZIOiY",
+                          "name": "David Kushner",
+                          "type": "artist",
+                          "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
+                  },
+                  "id": "5bXx1ncSvWPtNAuecQgsHf",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e3884b7043aa68c264faff71",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e3884b7043aa68c264faff71",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e3884b7043aa68c264faff71",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Footprints I Found",
+                  "release_date": "2022-09-16",
+                  "release_date_precision": "day",
+                  "total_tracks": 7,
+                  "type": "album",
+                  "uri": "spotify:album:5bXx1ncSvWPtNAuecQgsHf"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                      },
+                      "id": "33NVpKoXjItPwUJTMZIOiY",
+                      "name": "David Kushner",
+                      "type": "artist",
+                      "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 164186,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "QZD5H2000407"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/6e0Gfl49FN9m2c8QaB9vFr"
+              },
+              "id": "6e0Gfl49FN9m2c8QaB9vFr",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Look Back & Laugh",
+              "popularity": 66,
+              "preview_url": "https://p.scdn.co/mp3-preview/42dbefbe4de0e28cc67490b618d2fdaa70b0cb6a?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 5,
+              "type": "track",
+              "uri": "spotify:track:6e0Gfl49FN9m2c8QaB9vFr"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-09-16T06:54:29Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                          },
+                          "id": "33NVpKoXjItPwUJTMZIOiY",
+                          "name": "David Kushner",
+                          "type": "artist",
+                          "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
+                  },
+                  "id": "5bXx1ncSvWPtNAuecQgsHf",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e3884b7043aa68c264faff71",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e3884b7043aa68c264faff71",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e3884b7043aa68c264faff71",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Footprints I Found",
+                  "release_date": "2022-09-16",
+                  "release_date_precision": "day",
+                  "total_tracks": 7,
+                  "type": "album",
+                  "uri": "spotify:album:5bXx1ncSvWPtNAuecQgsHf"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                      },
+                      "id": "33NVpKoXjItPwUJTMZIOiY",
+                      "name": "David Kushner",
+                      "type": "artist",
+                      "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 182533,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "QZD5H2000408"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/2fkdhQW8R8QqE93iRFPYsl"
+              },
+              "id": "2fkdhQW8R8QqE93iRFPYsl",
+              "is_local": false,
+              "is_playable": true,
+              "name": "oooWooo",
+              "popularity": 62,
+              "preview_url": "https://p.scdn.co/mp3-preview/630e20212e873e01641f719104d9beb0a877cc76?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 7,
+              "type": "track",
+              "uri": "spotify:track:2fkdhQW8R8QqE93iRFPYsl"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-09-29T23:31:06Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                          },
+                          "id": "33NVpKoXjItPwUJTMZIOiY",
+                          "name": "David Kushner",
+                          "type": "artist",
+                          "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
+                  },
+                  "id": "5bXx1ncSvWPtNAuecQgsHf",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e3884b7043aa68c264faff71",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e3884b7043aa68c264faff71",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e3884b7043aa68c264faff71",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Footprints I Found",
+                  "release_date": "2022-09-16",
+                  "release_date_precision": "day",
+                  "total_tracks": 7,
+                  "type": "album",
+                  "uri": "spotify:album:5bXx1ncSvWPtNAuecQgsHf"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                      },
+                      "id": "33NVpKoXjItPwUJTMZIOiY",
+                      "name": "David Kushner",
+                      "type": "artist",
+                      "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 172680,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "QZD5H2000406"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/4HnVzg7n6aIPV7TCGRMR6k"
+              },
+              "id": "4HnVzg7n6aIPV7TCGRMR6k",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Cannon Beach",
+              "popularity": 62,
+              "preview_url": "https://p.scdn.co/mp3-preview/99d80bdf53134245c0c08d810a43baa90c4736c3?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 3,
+              "type": "track",
+              "uri": "spotify:track:4HnVzg7n6aIPV7TCGRMR6k"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-09-29T23:30:53Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                          },
+                          "id": "33NVpKoXjItPwUJTMZIOiY",
+                          "name": "David Kushner",
+                          "type": "artist",
+                          "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/5bXx1ncSvWPtNAuecQgsHf"
+                  },
+                  "id": "5bXx1ncSvWPtNAuecQgsHf",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273e3884b7043aa68c264faff71",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02e3884b7043aa68c264faff71",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851e3884b7043aa68c264faff71",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Footprints I Found",
+                  "release_date": "2022-09-16",
+                  "release_date_precision": "day",
+                  "total_tracks": 7,
+                  "type": "album",
+                  "uri": "spotify:album:5bXx1ncSvWPtNAuecQgsHf"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY"
+                      },
+                      "id": "33NVpKoXjItPwUJTMZIOiY",
+                      "name": "David Kushner",
+                      "type": "artist",
+                      "uri": "spotify:artist:33NVpKoXjItPwUJTMZIOiY"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 174186,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "QZD5H2000404"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/4r4yF6BGAm4oy4MnOYjSjI"
+              },
+              "id": "4r4yF6BGAm4oy4MnOYjSjI",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Cigarettes",
+              "popularity": 68,
+              "preview_url": "https://p.scdn.co/mp3-preview/951e43bf86eb525807a4e03d5a93eb8fc8d8bfd1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:4r4yF6BGAm4oy4MnOYjSjI"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2021-05-24T06:04:21Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+                          },
+                          "id": "16oZKvXb6WkQlVAjwo2Wbg",
+                          "name": "The Lumineers",
+                          "type": "artist",
+                          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN"
+                  },
+                  "id": "2zbTrm2pIAErzFSopinkbN",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273cd34380a48c22de3d0e475de",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02cd34380a48c22de3d0e475de",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851cd34380a48c22de3d0e475de",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Cleopatra",
+                  "release_date": "2016-04-08",
+                  "release_date_precision": "day",
+                  "total_tracks": 11,
+                  "type": "album",
+                  "uri": "spotify:album:2zbTrm2pIAErzFSopinkbN"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+                      },
+                      "id": "16oZKvXb6WkQlVAjwo2Wbg",
+                      "name": "The Lumineers",
+                      "type": "artist",
+                      "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 160097,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "USDMG1673802"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/3d8y0t70g7hw2FOWl9Z4Fm"
+              },
+              "id": "3d8y0t70g7hw2FOWl9Z4Fm",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Ophelia",
+              "popularity": 80,
+              "preview_url": "https://p.scdn.co/mp3-preview/72ddb34d6735c03a8ae82f14d0236ce7b4d47ae4?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 2,
+              "type": "track",
+              "uri": "spotify:track:3d8y0t70g7hw2FOWl9Z4Fm"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2021-05-24T06:04:35Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+                          },
+                          "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+                          "name": "Bon Iver",
+                          "type": "artist",
+                          "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5"
+                  },
+                  "id": "4SxFsOO0h4Nz3lFJuysKq5",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2730b1993db92eecc2dd5021293",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e020b1993db92eecc2dd5021293",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048510b1993db92eecc2dd5021293",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "For Emma, Forever Ago",
+                  "release_date": "2008-02-19",
+                  "release_date_precision": "day",
+                  "total_tracks": 9,
+                  "type": "album",
+                  "uri": "spotify:album:4SxFsOO0h4Nz3lFJuysKq5"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+                      },
+                      "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+                      "name": "Bon Iver",
+                      "type": "artist",
+                      "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 238520,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "US38Y0811503"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/3B3eOgLJSqPEA0RfboIQVM"
+              },
+              "id": "3B3eOgLJSqPEA0RfboIQVM",
+              "is_local": false,
+              "is_playable": true,
+              "linked_from": {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR"
+                  },
+                  "id": "2cbic3TiUENlJX91y67ARR",
+                  "type": "track",
+                  "uri": "spotify:track:2cbic3TiUENlJX91y67ARR"
+              },
+              "name": "Skinny Love",
+              "popularity": 75,
+              "preview_url": "https://p.scdn.co/mp3-preview/1515eb484a60f93e23e70b40acdcea8351365cef?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 3,
+              "type": "track",
+              "uri": "spotify:track:3B3eOgLJSqPEA0RfboIQVM"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2021-05-24T06:06:43Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+                          },
+                          "id": "16oZKvXb6WkQlVAjwo2Wbg",
+                          "name": "The Lumineers",
+                          "type": "artist",
+                          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/0cGGGHvqwMD2J7bNz8TG3s"
+                  },
+                  "id": "0cGGGHvqwMD2J7bNz8TG3s",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2736383f3d57f21108771c05323",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e026383f3d57f21108771c05323",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048516383f3d57f21108771c05323",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "III",
+                  "release_date": "2019-09-13",
+                  "release_date_precision": "day",
+                  "total_tracks": 13,
+                  "type": "album",
+                  "uri": "spotify:album:0cGGGHvqwMD2J7bNz8TG3s"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+                      },
+                      "id": "16oZKvXb6WkQlVAjwo2Wbg",
+                      "name": "The Lumineers",
+                      "type": "artist",
+                      "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 216120,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "USDMG1995103"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/5BkGp7FLUUpKgWl29jBK0J"
+              },
+              "id": "5BkGp7FLUUpKgWl29jBK0J",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Gloria",
+              "popularity": 66,
+              "preview_url": "https://p.scdn.co/mp3-preview/6012c5ed9dbc4d954bf7e842e134b20e73e88eaf?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 3,
+              "type": "track",
+              "uri": "spotify:track:5BkGp7FLUUpKgWl29jBK0J"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2021-08-07T11:50:55Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "single",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+                          },
+                          "id": "7bPs6jf983f0bjRAt1yxDM",
+                          "name": "Patrick Watson",
+                          "type": "artist",
+                          "uri": "spotify:artist:7bPs6jf983f0bjRAt1yxDM"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
+                  },
+                  "id": "7KPvATOyLVFbV6UR6DujF8",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27339372cb9fc75f395a5090a8d",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0239372cb9fc75f395a5090a8d",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485139372cb9fc75f395a5090a8d",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Je te laisserai des mots",
+                  "release_date": "2010-09-10",
+                  "release_date_precision": "day",
+                  "total_tracks": 1,
+                  "type": "album",
+                  "uri": "spotify:album:7KPvATOyLVFbV6UR6DujF8"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM"
+                      },
+                      "id": "7bPs6jf983f0bjRAt1yxDM",
+                      "name": "Patrick Watson",
+                      "type": "artist",
+                      "uri": "spotify:artist:7bPs6jf983f0bjRAt1yxDM"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 160853,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "CA0RZ1000020"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS"
+              },
+              "id": "0V5cvmTKsYmF5FmGGEAfmS",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Je te laisserai des mots",
+              "popularity": 87,
+              "preview_url": "https://p.scdn.co/mp3-preview/d2b664d7c58752c63889b8f47553178e6e67fa96?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:0V5cvmTKsYmF5FmGGEAfmS"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2021-11-06T11:58:32Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
+                          },
+                          "id": "1t20wYnTiAT0Bs7H1hv9Wt",
+                          "name": "EDEN",
+                          "type": "artist",
+                          "uri": "spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/2Dbm63Nwx511E4HclnQto6"
+                  },
+                  "id": "2Dbm63Nwx511E4HclnQto6",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273da09e2843f974e8fdf807d27",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02da09e2843f974e8fdf807d27",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851da09e2843f974e8fdf807d27",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "vertigo",
+                  "release_date": "2018-01-19",
+                  "release_date_precision": "day",
+                  "total_tracks": 13,
+                  "type": "album",
+                  "uri": "spotify:album:2Dbm63Nwx511E4HclnQto6"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
+                      },
+                      "id": "1t20wYnTiAT0Bs7H1hv9Wt",
+                      "name": "EDEN",
+                      "type": "artist",
+                      "uri": "spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 203575,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "USUM71710305"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/5b7dneE3n3E6STLGvTbqbr"
+              },
+              "id": "5b7dneE3n3E6STLGvTbqbr",
+              "is_local": false,
+              "is_playable": true,
+              "name": "lost//found",
+              "popularity": 43,
+              "preview_url": "https://p.scdn.co/mp3-preview/81d2ea9918f342f534b50f8091d92db5a0b09e4d?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 6,
+              "type": "track",
+              "uri": "spotify:track:5b7dneE3n3E6STLGvTbqbr"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2021-11-11T09:59:04Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+                          },
+                          "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+                          "name": "Bon Iver",
+                          "type": "artist",
+                          "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/4bJCKmpKgti10f3ltz6LLl"
+                  },
+                  "id": "4bJCKmpKgti10f3ltz6LLl",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d7f5afe93dd997671be4fa25",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d7f5afe93dd997671be4fa25",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d7f5afe93dd997671be4fa25",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "22, A Million",
+                  "release_date": "2016-09-30",
+                  "release_date_precision": "day",
+                  "total_tracks": 10,
+                  "type": "album",
+                  "uri": "spotify:album:4bJCKmpKgti10f3ltz6LLl"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+                      },
+                      "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+                      "name": "Bon Iver",
+                      "type": "artist",
+                      "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 132000,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "US38Y1630003"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/4fLfKKoIWroefEjqpMDid7"
+              },
+              "id": "4fLfKKoIWroefEjqpMDid7",
+              "is_local": false,
+              "is_playable": true,
+              "name": "715 - CR\u2211\u2211KS",
+              "popularity": 54,
+              "preview_url": "https://p.scdn.co/mp3-preview/811676018f5b81019a822205cc5a13bc5f8f1bad?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 3,
+              "type": "track",
+              "uri": "spotify:track:4fLfKKoIWroefEjqpMDid7"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2021-11-12T11:55:40Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "single",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+                          },
+                          "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+                          "name": "Bon Iver",
+                          "type": "artist",
+                          "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob"
+                  },
+                  "id": "6G2VFrsyr7jAiUYklrdKob",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27333a839e8b2cf1512f3badabb",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0233a839e8b2cf1512f3badabb",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485133a839e8b2cf1512f3badabb",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Blood Bank",
+                  "release_date": "2009-01-20",
+                  "release_date_precision": "day",
+                  "total_tracks": 4,
+                  "type": "album",
+                  "uri": "spotify:album:6G2VFrsyr7jAiUYklrdKob"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+                      },
+                      "id": "4LEiUm1SRbFMgfqnQTwUbQ",
+                      "name": "Bon Iver",
+                      "type": "artist",
+                      "uri": "spotify:artist:4LEiUm1SRbFMgfqnQTwUbQ"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 285160,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "US38Y0913401"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/15WbjBy1bzH1UsUldBwwlW"
+              },
+              "id": "15WbjBy1bzH1UsUldBwwlW",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Blood Bank",
+              "popularity": 66,
+              "preview_url": "https://p.scdn.co/mp3-preview/06469563c0db00b13b072d292eb5a4dd01f6b827?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:15WbjBy1bzH1UsUldBwwlW"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2021-11-15T00:09:43Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+                          },
+                          "id": "1sgVcCMCarG7yWGmkP9wMb",
+                          "name": "John Vincent III",
+                          "type": "artist",
+                          "uri": "spotify:artist:1sgVcCMCarG7yWGmkP9wMb"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH"
+                  },
+                  "id": "2SdtFo4v3o7xfyyEOnXlIH",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d9577b938f4ff10f5b136fe9",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d9577b938f4ff10f5b136fe9",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d9577b938f4ff10f5b136fe9",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Songs from the Valley",
+                  "release_date": "2019-06-17",
+                  "release_date_precision": "day",
+                  "total_tracks": 8,
+                  "type": "album",
+                  "uri": "spotify:album:2SdtFo4v3o7xfyyEOnXlIH"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+                      },
+                      "id": "1sgVcCMCarG7yWGmkP9wMb",
+                      "name": "John Vincent III",
+                      "type": "artist",
+                      "uri": "spotify:artist:1sgVcCMCarG7yWGmkP9wMb"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 256519,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "QM24S1822316"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/3MwHZDGwAR8RjZZBriBqmx"
+              },
+              "id": "3MwHZDGwAR8RjZZBriBqmx",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Next to You",
+              "popularity": 75,
+              "preview_url": "https://p.scdn.co/mp3-preview/4f3fb42a7d64524b5f4e0ed30132fadc75e29429?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 4,
+              "type": "track",
+              "uri": "spotify:track:3MwHZDGwAR8RjZZBriBqmx"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2021-12-07T23:00:05Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+                          },
+                          "id": "16oZKvXb6WkQlVAjwo2Wbg",
+                          "name": "The Lumineers",
+                          "type": "artist",
+                          "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/6NWYmlHxAME5KXtxrTlUxW"
+                  },
+                  "id": "6NWYmlHxAME5KXtxrTlUxW",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27373cd0c903b9929d5ce7b26dd",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0273cd0c903b9929d5ce7b26dd",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485173cd0c903b9929d5ce7b26dd",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "The Lumineers",
+                  "release_date": "2012-04-03",
+                  "release_date_precision": "day",
+                  "total_tracks": 11,
+                  "type": "album",
+                  "uri": "spotify:album:6NWYmlHxAME5KXtxrTlUxW"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+                      },
+                      "id": "16oZKvXb6WkQlVAjwo2Wbg",
+                      "name": "The Lumineers",
+                      "type": "artist",
+                      "uri": "spotify:artist:16oZKvXb6WkQlVAjwo2Wbg"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 279000,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "USDMG1260807"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/3ekNuTF3UpOvIZCfiejpnC"
+              },
+              "id": "3ekNuTF3UpOvIZCfiejpnC",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Stubborn Love",
+              "popularity": 75,
+              "preview_url": "https://p.scdn.co/mp3-preview/dd1450f2553e3d3dcbd1b23be99a0e9be2fcae61?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 7,
+              "type": "track",
+              "uri": "spotify:track:3ekNuTF3UpOvIZCfiejpnC"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2021-12-11T03:06:50Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+                          },
+                          "id": "5sXaGoRLSpd7VeyZrLkKwt",
+                          "name": "Gregory Alan Isakov",
+                          "type": "artist",
+                          "uri": "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g"
+                  },
+                  "id": "06UoTVgpPiGnRPGjowrG3g",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b27393a1519118102a6d78164713",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e0293a1519118102a6d78164713",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d0000485193a1519118102a6d78164713",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "This Empty Northern Hemisphere",
+                  "release_date": "2009-01-01",
+                  "release_date_precision": "day",
+                  "total_tracks": 13,
+                  "type": "album",
+                  "uri": "spotify:album:06UoTVgpPiGnRPGjowrG3g"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt"
+                      },
+                      "id": "5sXaGoRLSpd7VeyZrLkKwt",
+                      "name": "Gregory Alan Isakov",
+                      "type": "artist",
+                      "uri": "spotify:artist:5sXaGoRLSpd7VeyZrLkKwt"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 217466,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "uscgj0988301"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH"
+              },
+              "id": "3Kj2EWpIBnvETsYq4cq0IH",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Big Black Car",
+              "popularity": 78,
+              "preview_url": "https://p.scdn.co/mp3-preview/3d04dae43ab370eb9042255a155e7a84381a3f8a?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 6,
+              "type": "track",
+              "uri": "spotify:track:3Kj2EWpIBnvETsYq4cq0IH"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-01-03T06:39:10Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
+                          },
+                          "id": "1t20wYnTiAT0Bs7H1hv9Wt",
+                          "name": "EDEN",
+                          "type": "artist",
+                          "uri": "spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/7AVvQhnDEUidKyJsXmQ7ju"
+                  },
+                  "id": "7AVvQhnDEUidKyJsXmQ7ju",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c61b46cf682d7f0183fcb87c",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c61b46cf682d7f0183fcb87c",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c61b46cf682d7f0183fcb87c",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "i think you think too much of me",
+                  "release_date": "2016-08-19",
+                  "release_date_precision": "day",
+                  "total_tracks": 7,
+                  "type": "album",
+                  "uri": "spotify:album:7AVvQhnDEUidKyJsXmQ7ju"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
+                      },
+                      "id": "1t20wYnTiAT0Bs7H1hv9Wt",
+                      "name": "EDEN",
+                      "type": "artist",
+                      "uri": "spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 338333,
+              "episode": false,
+              "explicit": true,
+              "external_ids": {
+                  "isrc": "USUG11600370"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/3OXpdrHLT4IqM76RajgM6Q"
+              },
+              "id": "3OXpdrHLT4IqM76RajgM6Q",
+              "is_local": false,
+              "is_playable": true,
+              "name": "drugs",
+              "popularity": 61,
+              "preview_url": "https://p.scdn.co/mp3-preview/0be3d2bb6acb56fc7fd96c3e15b39e5fbd2cd6fd?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 2,
+              "type": "track",
+              "uri": "spotify:track:3OXpdrHLT4IqM76RajgM6Q"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-01-09T16:28:57Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
+                          },
+                          "id": "1t20wYnTiAT0Bs7H1hv9Wt",
+                          "name": "EDEN",
+                          "type": "artist",
+                          "uri": "spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/7AVvQhnDEUidKyJsXmQ7ju"
+                  },
+                  "id": "7AVvQhnDEUidKyJsXmQ7ju",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c61b46cf682d7f0183fcb87c",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c61b46cf682d7f0183fcb87c",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c61b46cf682d7f0183fcb87c",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "i think you think too much of me",
+                  "release_date": "2016-08-19",
+                  "release_date_precision": "day",
+                  "total_tracks": 7,
+                  "type": "album",
+                  "uri": "spotify:album:7AVvQhnDEUidKyJsXmQ7ju"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/1t20wYnTiAT0Bs7H1hv9Wt"
+                      },
+                      "id": "1t20wYnTiAT0Bs7H1hv9Wt",
+                      "name": "EDEN",
+                      "type": "artist",
+                      "uri": "spotify:artist:1t20wYnTiAT0Bs7H1hv9Wt"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 296053,
+              "episode": false,
+              "explicit": true,
+              "external_ids": {
+                  "isrc": "USUG11600372"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/0Mf6WhWLfOpzOxacvbcboj"
+              },
+              "id": "0Mf6WhWLfOpzOxacvbcboj",
+              "is_local": false,
+              "is_playable": true,
+              "name": "rock + roll",
+              "popularity": 59,
+              "preview_url": "https://p.scdn.co/mp3-preview/c2541615b35b249690a3166c7746b466711712ee?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 4,
+              "type": "track",
+              "uri": "spotify:track:0Mf6WhWLfOpzOxacvbcboj"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-01-19T22:57:04Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "single",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+                          },
+                          "id": "5nvWOyAkfNgVLKESq4fOj2",
+                          "name": "Montell Fish",
+                          "type": "artist",
+                          "uri": "spotify:artist:5nvWOyAkfNgVLKESq4fOj2"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/4rvVYGqXj3IPKI98aQV6Rf"
+                  },
+                  "id": "4rvVYGqXj3IPKI98aQV6Rf",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273fe2d3631512696439d66e214",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02fe2d3631512696439d66e214",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851fe2d3631512696439d66e214",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Call U Tomorrow",
+                  "release_date": "2021-10-15",
+                  "release_date_precision": "day",
+                  "total_tracks": 1,
+                  "type": "album",
+                  "uri": "spotify:album:4rvVYGqXj3IPKI98aQV6Rf"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+                      },
+                      "id": "5nvWOyAkfNgVLKESq4fOj2",
+                      "name": "Montell Fish",
+                      "type": "artist",
+                      "uri": "spotify:artist:5nvWOyAkfNgVLKESq4fOj2"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 186666,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "QZMER2133457"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/1kPee0zC6xh3DT1mlG5a82"
+              },
+              "id": "1kPee0zC6xh3DT1mlG5a82",
+              "is_local": false,
+              "is_playable": true,
+              "linked_from": {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/track/0i5w6z3hhpfVMkRUdv9jQ4"
+                  },
+                  "id": "0i5w6z3hhpfVMkRUdv9jQ4",
+                  "type": "track",
+                  "uri": "spotify:track:0i5w6z3hhpfVMkRUdv9jQ4"
+              },
+              "name": "Call U Tomorrow",
+              "popularity": 64,
+              "preview_url": "https://p.scdn.co/mp3-preview/97cf826baad9022ef238f273b89fd797c756a22f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:1kPee0zC6xh3DT1mlG5a82"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-01-23T11:21:59Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+                          },
+                          "id": "26T3LtbuGT1Fu9m0eRq5X3",
+                          "name": "Cage The Elephant",
+                          "type": "artist",
+                          "uri": "spotify:artist:26T3LtbuGT1Fu9m0eRq5X3"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/4EK8gtQfdVsmDTji7gBFlz"
+                  },
+                  "id": "4EK8gtQfdVsmDTji7gBFlz",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273fb1cb900d28642e668d77b12",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02fb1cb900d28642e668d77b12",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851fb1cb900d28642e668d77b12",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Melophobia",
+                  "release_date": "2013-10-08",
+                  "release_date_precision": "day",
+                  "total_tracks": 10,
+                  "type": "album",
+                  "uri": "spotify:album:4EK8gtQfdVsmDTji7gBFlz"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+                      },
+                      "id": "26T3LtbuGT1Fu9m0eRq5X3",
+                      "name": "Cage The Elephant",
+                      "type": "artist",
+                      "uri": "spotify:artist:26T3LtbuGT1Fu9m0eRq5X3"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 208760,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "USRC11301169"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/2tznHmp70DxMyr2XhWLOW0"
+              },
+              "id": "2tznHmp70DxMyr2XhWLOW0",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Cigarette Daydreams",
+              "popularity": 82,
+              "preview_url": "https://p.scdn.co/mp3-preview/a7a72315d777f4ed078d955238f9db158c915fc1?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 10,
+              "type": "track",
+              "uri": "spotify:track:2tznHmp70DxMyr2XhWLOW0"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-01-30T20:32:10Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+                          },
+                          "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+                          "name": "Lord Huron",
+                          "type": "artist",
+                          "uri": "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/2ZDjruwuzzzT8JMJRXvLtl"
+                  },
+                  "id": "2ZDjruwuzzzT8JMJRXvLtl",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b2739fa1250ee7b5839a4a7d6434",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e029fa1250ee7b5839a4a7d6434",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d000048519fa1250ee7b5839a4a7d6434",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Lonesome Dreams",
+                  "release_date": "2012-10-08",
+                  "release_date_precision": "day",
+                  "total_tracks": 10,
+                  "type": "album",
+                  "uri": "spotify:album:2ZDjruwuzzzT8JMJRXvLtl"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+                      },
+                      "id": "6ltzsmQQbmdoHHbLZ4ZN25",
+                      "name": "Lord Huron",
+                      "type": "artist",
+                      "uri": "spotify:artist:6ltzsmQQbmdoHHbLZ4ZN25"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 284146,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "US53Q1200031"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/1KQsrNv2vEW7AXKTrFz0Ah"
+              },
+              "id": "1KQsrNv2vEW7AXKTrFz0Ah",
+              "is_local": false,
+              "is_playable": true,
+              "linked_from": {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/track/4yyg2J2uXOjCtCyT64984C"
+                  },
+                  "id": "4yyg2J2uXOjCtCyT64984C",
+                  "type": "track",
+                  "uri": "spotify:track:4yyg2J2uXOjCtCyT64984C"
+              },
+              "name": "Ends of the Earth",
+              "popularity": 72,
+              "preview_url": "https://p.scdn.co/mp3-preview/e1d08eb9e126d415e59539ee26b8f5a155a3453f?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:1KQsrNv2vEW7AXKTrFz0Ah"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-02-02T02:23:56Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+                          },
+                          "id": "1sgVcCMCarG7yWGmkP9wMb",
+                          "name": "John Vincent III",
+                          "type": "artist",
+                          "uri": "spotify:artist:1sgVcCMCarG7yWGmkP9wMb"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/2SdtFo4v3o7xfyyEOnXlIH"
+                  },
+                  "id": "2SdtFo4v3o7xfyyEOnXlIH",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273d9577b938f4ff10f5b136fe9",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02d9577b938f4ff10f5b136fe9",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851d9577b938f4ff10f5b136fe9",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Songs from the Valley",
+                  "release_date": "2019-06-17",
+                  "release_date_precision": "day",
+                  "total_tracks": 8,
+                  "type": "album",
+                  "uri": "spotify:album:2SdtFo4v3o7xfyyEOnXlIH"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/1sgVcCMCarG7yWGmkP9wMb"
+                      },
+                      "id": "1sgVcCMCarG7yWGmkP9wMb",
+                      "name": "John Vincent III",
+                      "type": "artist",
+                      "uri": "spotify:artist:1sgVcCMCarG7yWGmkP9wMb"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 227369,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "FR2X41988855"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/5wejUto9orDIV7g8eb6VZ6"
+              },
+              "id": "5wejUto9orDIV7g8eb6VZ6",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Lover of Mine",
+              "popularity": 63,
+              "preview_url": "https://p.scdn.co/mp3-preview/25476ff2be6dcd5a8e6ed0d5d6dd0e822bff42a3?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 2,
+              "type": "track",
+              "uri": "spotify:track:5wejUto9orDIV7g8eb6VZ6"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-02-06T21:08:43Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+                          },
+                          "id": "2WoVwexZuODvclzULjPQtm",
+                          "name": "Sampha",
+                          "type": "artist",
+                          "uri": "spotify:artist:2WoVwexZuODvclzULjPQtm"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/4rA6i9oXyMhh77pqK0cXKv"
+                  },
+                  "id": "4rA6i9oXyMhh77pqK0cXKv",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273ab6b9fb78a5506e4b4d40429",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02ab6b9fb78a5506e4b4d40429",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851ab6b9fb78a5506e4b4d40429",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Process (Bonus Edition)",
+                  "release_date": "2017",
+                  "release_date_precision": "year",
+                  "total_tracks": 12,
+                  "type": "album",
+                  "uri": "spotify:album:4rA6i9oXyMhh77pqK0cXKv"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+                      },
+                      "id": "2WoVwexZuODvclzULjPQtm",
+                      "name": "Sampha",
+                      "type": "artist",
+                      "uri": "spotify:artist:2WoVwexZuODvclzULjPQtm"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 218160,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "UK7MC1600030"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/2UBwvSk8tTMqydEdWsfBb8"
+              },
+              "id": "2UBwvSk8tTMqydEdWsfBb8",
+              "is_local": false,
+              "is_playable": true,
+              "name": "(No One Knows Me) Like the Piano",
+              "popularity": 59,
+              "preview_url": "https://p.scdn.co/mp3-preview/ba2ead69ef0405d168514dbde2892d9e4cd5eb3e?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 4,
+              "type": "track",
+              "uri": "spotify:track:2UBwvSk8tTMqydEdWsfBb8"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-02-10T22:26:59Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "single",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+                          },
+                          "id": "4lhUHpVOXmkEBGGHV71QCh",
+                          "name": "Chance Pe\u00f1a",
+                          "type": "artist",
+                          "uri": "spotify:artist:4lhUHpVOXmkEBGGHV71QCh"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/5g4GJzoxLVHOOPYyHgXCZe"
+                  },
+                  "id": "5g4GJzoxLVHOOPYyHgXCZe",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273c624bd7700f723a8c391b664",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02c624bd7700f723a8c391b664",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851c624bd7700f723a8c391b664",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "War",
+                  "release_date": "2021-07-02",
+                  "release_date_precision": "day",
+                  "total_tracks": 1,
+                  "type": "album",
+                  "uri": "spotify:album:5g4GJzoxLVHOOPYyHgXCZe"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh"
+                      },
+                      "id": "4lhUHpVOXmkEBGGHV71QCh",
+                      "name": "Chance Pe\u00f1a",
+                      "type": "artist",
+                      "uri": "spotify:artist:4lhUHpVOXmkEBGGHV71QCh"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 158363,
+              "episode": false,
+              "explicit": false,
+              "external_ids": {
+                  "isrc": "QZHNB2142926"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/1MQLdI6RONvfjEz4K6ZRXp"
+              },
+              "id": "1MQLdI6RONvfjEz4K6ZRXp",
+              "is_local": false,
+              "is_playable": true,
+              "linked_from": {
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/track/5nO5Hrh7KlABfSqEa8OdWl"
+                  },
+                  "id": "5nO5Hrh7KlABfSqEa8OdWl",
+                  "type": "track",
+                  "uri": "spotify:track:5nO5Hrh7KlABfSqEa8OdWl"
+              },
+              "name": "War",
+              "popularity": 74,
+              "preview_url": "https://p.scdn.co/mp3-preview/7035daa36f2ad79f2ae86791e0bfe0a97a085ea2?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 1,
+              "type": "track",
+              "uri": "spotify:track:1MQLdI6RONvfjEz4K6ZRXp"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      },
+      {
+          "added_at": "2022-02-11T00:29:31Z",
+          "added_by": {
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/user/dankavid"
+              },
+              "id": "dankavid",
+              "type": "user",
+              "uri": "spotify:user:dankavid"
+          },
+          "is_local": false,
+          "primary_color": null,
+          "track": {
+              "album": {
+                  "album_type": "album",
+                  "artists": [
+                      {
+                          "external_urls": {
+                              "spotify": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+                          },
+                          "id": "7gHscNMDI8FF8pcgrV8eIn",
+                          "name": "Matt Maeson",
+                          "type": "artist",
+                          "uri": "spotify:artist:7gHscNMDI8FF8pcgrV8eIn"
+                      }
+                  ],
+                  "external_urls": {
+                      "spotify": "https://open.spotify.com/album/3IQhe9N4j1tXTwKlhT2FsL"
+                  },
+                  "id": "3IQhe9N4j1tXTwKlhT2FsL",
+                  "images": [
+                      {
+                          "height": 640,
+                          "url": "https://i.scdn.co/image/ab67616d0000b273361d711120142f467651a312",
+                          "width": 640
+                      },
+                      {
+                          "height": 300,
+                          "url": "https://i.scdn.co/image/ab67616d00001e02361d711120142f467651a312",
+                          "width": 300
+                      },
+                      {
+                          "height": 64,
+                          "url": "https://i.scdn.co/image/ab67616d00004851361d711120142f467651a312",
+                          "width": 64
+                      }
+                  ],
+                  "is_playable": true,
+                  "name": "Bank On The Funeral",
+                  "release_date": "2019-04-05",
+                  "release_date_precision": "day",
+                  "total_tracks": 12,
+                  "type": "album",
+                  "uri": "spotify:album:3IQhe9N4j1tXTwKlhT2FsL"
+              },
+              "artists": [
+                  {
+                      "external_urls": {
+                          "spotify": "https://open.spotify.com/artist/7gHscNMDI8FF8pcgrV8eIn"
+                      },
+                      "id": "7gHscNMDI8FF8pcgrV8eIn",
+                      "name": "Matt Maeson",
+                      "type": "artist",
+                      "uri": "spotify:artist:7gHscNMDI8FF8pcgrV8eIn"
+                  }
+              ],
+              "disc_number": 1,
+              "duration_ms": 187173,
+              "episode": false,
+              "explicit": true,
+              "external_ids": {
+                  "isrc": "USAT21801088"
+              },
+              "external_urls": {
+                  "spotify": "https://open.spotify.com/track/6bLU8e0LGyztE9iD5DWBQ1"
+              },
+              "id": "6bLU8e0LGyztE9iD5DWBQ1",
+              "is_local": false,
+              "is_playable": true,
+              "name": "Hallucinogenics",
+              "popularity": 73,
+              "preview_url": "https://p.scdn.co/mp3-preview/aa52075bc5c4f19d8817dbbdd58d2e8233910072?cid=d8a5ed958d274c2e8ee717e6a4b0971d",
+              "track": true,
+              "track_number": 6,
+              "type": "track",
+              "uri": "spotify:track:6bLU8e0LGyztE9iD5DWBQ1"
+          },
+          "video_thumbnail": {
+              "url": null
+          }
+      }
+  ],
+  "limit": 100,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 98
+}
+
+

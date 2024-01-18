@@ -27,7 +27,7 @@ function Screen({ discoveredItems, setDiscoveredItems }) {
         {" "}
         <Header />
       </div>
-      <div>{getContent()}</div>
+      <div >{getContent()}</div>
       {/* <Card /> */}
     </div>
   );

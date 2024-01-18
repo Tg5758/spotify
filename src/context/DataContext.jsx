@@ -60,7 +60,6 @@ export const DataProvider = ({ children }) => {
     }
   };
 
-  useEffect(() => {}, []);
 
   useEffect(() => {
     if (page === "home") {
@@ -69,8 +68,8 @@ export const DataProvider = ({ children }) => {
     }
 
     if (page === "playlist") {
-      setTheme( TRACK_DEFAULT_THEME)
-      // setTheme(getTrackTheme() || TRACK_DEFAULT_THEME)
+      // setTheme( TRACK_DEFAULT_THEME)
+      setTheme(TRACK_THEME[0])
       isLive ? getPlayListData() : setPlayListData(PLAYLIST);
     }
   }, [page]);
