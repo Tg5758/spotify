@@ -1,11 +1,11 @@
 import React from "react";
-// import { useData } from "./context/DataContext";
+import { useData } from "./context/DataContext";
 import { PLAYLISTDATA } from "./dummy";
 import PlayListTable from "./component/PlayListTable";
 
 function PlayList() {
   const playListData = PLAYLISTDATA;
-    // const { playListData } = useData();
+    const { albumId } = useData();
 
   const convertMillisecondsToHoursAndMinutes = (milliseconds) => {
     const seconds = milliseconds / 1000;
@@ -31,6 +31,8 @@ function PlayList() {
     { name: "download", path: "/images/download.png" , height:"42px"},
     { name: "threeDots", path: "/images/threeDots.png" , height:"33px"},
   ];
+
+  console.log("------------", albumId)
   return (
     <>
       <div className="flex p-10  flex-col ">

@@ -1,12 +1,13 @@
 import React, { memo, useEffect, useRef, useState } from "react";
-// import { useData } from '../context/DataContext';
+import { useData } from '../context/DataContext';
 import { PLAYLISTTRACKS } from "../dummy";
 
 function PlayListTable() {
-  // const {playListId} = useData();
+  const {playListId,setAlbumId} = useData();
+  const {playListStop,setAlbumStop} = useData(false);
   const audioElementRef = useRef(null);
-  const [tracks, setTracks] = useState();
-  const [error, setError] = useState("");
+  const [, setTracks] = useState();
+  const [, setError] = useState("");
   const [currentSongIndex, setCurrentSongIndex] = useState(0);
   const playListData = PLAYLISTTRACKS.items;
 
@@ -36,6 +37,8 @@ function PlayListTable() {
     fetchData();
   }, []);
 
+
+
   useEffect(() => {
     const audioElement = audioElementRef.current;
     audioElement.addEventListener("ended", playNextSong);
@@ -52,7 +55,10 @@ function PlayListTable() {
     audioElement.currentTime = 0;
 
     if (previewUrl) {
-      audioElement.play();
+      audioElement.addEventListener('canplaythrough', () => {
+        audioElement.play();
+      }, { once: true });
+    
     }
   }, [currentSongIndex, playListData]);
 
@@ -73,11 +79,19 @@ function PlayListTable() {
     }
   };
 
+  const handlePlay = () => {
+    setAlbumStop(true)
+  }
+  const handlePause = () => {
+    setAlbumStop(false)
+  }
+
   return (
     <>
       <div className="flex flex-col">
-        <audio id="audioElement" ref={audioElementRef} controls>
+        <audio preload="metadata" id="audioElement" ref={audioElementRef} controls autoPlay>
           <source
+          
             src={playListData[currentSongIndex]?.track?.preview_url}
             type="audio/mp3"
           />
@@ -109,6 +123,8 @@ function PlayListTable() {
                 </thead>
                 <tbody>
                   {playListData.map((item, index) => {
+                    const albumIds = item.track.album.id
+                    setAlbumId(albumIds)
                     const isSelected = currentSongIndex === index;
                     const songName = item.track.name;
                     const albumType = item.track.album.album_type;
@@ -130,7 +146,7 @@ function PlayListTable() {
                         }}
                       >
                         <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-800 dark:text-gray-200">
-                          {isSelected ? (
+                          {isSelected && playListStop === true  ? (
                             <img
                               className="w-7 h-7 "
                               src="/gif/secound.gif"

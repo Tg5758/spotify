@@ -8,9 +8,15 @@ import React, {
 import { PLAYLIST } from "../dummy";
 
 const DataContext = createContext();
-const THEME_BLUE = 'linear-gradient(180deg, #3333A3 5.09%, #121212 33.4%)'
-const TRACK_DEFAULT_THEME = 'linear-gradient(180deg, #DEF628 5.09%, #121212 43.28%)'
-const TRACK_THEME = ['linear-gradient(180deg, #DEF628 5.09%, #121212 43.28%)','linear-gradient(180deg, #A34284 5.09%, #121212 43.28%)','linear-gradient(180deg, #6EA6EA 5.09%, #121212 43.28%)','linear-gradient(180deg, #604EC1 5.09%, #121212 43.28%)']
+const THEME_BLUE = "linear-gradient(180deg, #3333A3 5.09%, #121212 33.4%)";
+const TRACK_DEFAULT_THEME =
+  "linear-gradient(180deg, #DEF628 5.09%, #121212 43.28%)";
+const TRACK_THEME = [
+  "linear-gradient(180deg, #DEF628 5.09%, #121212 43.28%)",
+  "linear-gradient(180deg, #A34284 5.09%, #121212 43.28%)",
+  "linear-gradient(180deg, #6EA6EA 5.09%, #121212 43.28%)",
+  "linear-gradient(180deg, #604EC1 5.09%, #121212 43.28%)",
+];
 const isLive = false;
 
 export const DataProvider = ({ children }) => {
@@ -20,6 +26,7 @@ export const DataProvider = ({ children }) => {
   const [page, setPage] = useState("home");
   const [playListId, setPlayListId] = useState("");
   const [theme, setTheme] = useState(THEME_BLUE);
+  const [albumId, setAlbumId] = useState("");
 
   const fetchData = async () => {
     try {
@@ -60,16 +67,15 @@ export const DataProvider = ({ children }) => {
     }
   };
 
-
   useEffect(() => {
     if (page === "home") {
-      setTheme(THEME_BLUE)
+      setTheme(THEME_BLUE);
       isLive ? fetchData() : setData(PLAYLIST);
     }
 
     if (page === "playlist") {
       // setTheme( TRACK_DEFAULT_THEME)
-      setTheme(TRACK_THEME[0])
+      setTheme(TRACK_THEME[0]);
       isLive ? getPlayListData() : setPlayListData(PLAYLIST);
     }
   }, [page]);
@@ -85,7 +91,11 @@ export const DataProvider = ({ children }) => {
   }, [data, page, playListData]);
 
   if (finalData === null) {
-    return <p>trigger api...</p>;
+    return (
+      <div className="w-full h-screen flex bg-black">
+        <span class="loader"></span>;
+      </div>
+    );
   }
 
   return (
@@ -98,9 +108,11 @@ export const DataProvider = ({ children }) => {
           playListId,
           playListData,
           theme,
+          albumId,
           setPage,
           setPlayListId,
           setPlayListData,
+          setAlbumId,
         }}
       >
         {children}
