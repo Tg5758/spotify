@@ -1,7 +1,7 @@
 import React from "react";
 import { useData } from "../context/DataContext";
 import MainComponent from "./MainComponent";
-import PlayList from "../PlayList";
+import PlayList from "./PlayList";
 import Header from "./Header";
 
 function Screen({ discoveredItems, setDiscoveredItems }) {
@@ -27,7 +27,7 @@ function Screen({ discoveredItems, setDiscoveredItems }) {
         {" "}
         <Header />
       </div>
-      <div >{getContent()}</div>
+      <div className="mt-9">{getContent()}</div>
       {/* <Card /> */}
     </div>
   );

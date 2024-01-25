@@ -27,6 +27,7 @@ export const DataProvider = ({ children }) => {
   const [playListId, setPlayListId] = useState("");
   const [theme, setTheme] = useState(THEME_BLUE);
   const [albumId, setAlbumId] = useState("");
+  const [liked,setLiked] = useState(false)
 
   const fetchData = async () => {
     try {
@@ -98,6 +99,9 @@ export const DataProvider = ({ children }) => {
     );
   }
 
+  const handleLikeToggle = () => {
+    setLiked(!liked);
+  };
   return (
     <>
       <DataContext.Provider
@@ -109,10 +113,13 @@ export const DataProvider = ({ children }) => {
           playListData,
           theme,
           albumId,
+          liked,
           setPage,
           setPlayListId,
           setPlayListData,
           setAlbumId,
+          setLiked,
+          handleLikeToggle
         }}
       >
         {children}

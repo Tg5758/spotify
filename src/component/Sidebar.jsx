@@ -2,7 +2,6 @@ import React from "react";
 // import { MENU } from "../dummy";
 
 function Sidebar({discoveredItems}) {
- 
 
   const topSidebarData = [
     { name: "Home", path: "/images/home.png" },

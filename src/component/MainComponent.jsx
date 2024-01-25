@@ -1,5 +1,7 @@
 import React, { useMemo } from "react";
 import { useData } from "../context/DataContext";
+import { useNavigate } from "react-router-dom";
+
 
 const getTime = (time) => {
   const hour = new Date(time).getHours();
@@ -38,15 +40,17 @@ const PlaylistButton = ({ imageSrc, playlistName, onClick }) => (
 );
 
 function MainComponent() {
-  const { data, setPage,setPlayListId } = useData();
+  const { data, setPage,setPlayListId,theme } = useData();
   const currentTime = new Date();
   const timeOfDay = getTime(currentTime);
+  const navigate = useNavigate()
 
   const handleClickToPlaylist = (playListId) => {
     setPlayListId(playListId);
     setPage("playlist");
+    navigate("/playlist")
   };
-
+  
   const playlists = useMemo(() => {
     const publicPlaylists = data.public_playlists || [];
     const filterPublicPlaylists =
@@ -57,7 +61,7 @@ function MainComponent() {
   return (
     <div
       style={{
-        // background: theme,
+        background: theme,
         height: "calc(100vh - 80px)",
       }}
     >
@@ -85,7 +89,7 @@ function MainComponent() {
                 key={index}
                 imageSrc={`https://i.scdn.co/image/${path}`}
                 playlistName={name}
-                onClick={() => handleClickToPlaylist(playListId)}
+                onClick={() => handleClickToPlaylist(playListId) }
               />
             );
           })}
